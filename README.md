@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Faruk</h1>
-<h3 align="center">Problem solver | back-end developer | node.js developer | mern stack developer</h3>
+<h3 align="center">Problem solver | back-end developer | Django developer | python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarfaruk2&label=Profile%20views&color=0e75b6&style=flat" alt="umarfaruk2" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://md-umar-faruk.web.app/](https://md-umar-faruk.web.app/)
 
-- 💬 Ask me about **react, node.js, javascript**
+- 💬 Ask me about **problem solving, Django, backend**
 
 - 📫 How to reach me **farukdev22@gmail.com**
 
