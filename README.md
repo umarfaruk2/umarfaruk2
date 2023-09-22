@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Problem solving, back-end development**
 
-- 👨‍💻 All of my projects are available at [https://md-umar-faruk.web.app/](https://md-umar-faruk.web.app/)
-
 - 💬 Ask me about **problem solving, Django, backend**
 
 - 📫 How to reach me **farukdev22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16YGCyRtMc0oHz_qNfNBCGwuZiI4RDVvG/view](https://drive.google.com/file/d/16YGCyRtMc0oHz_qNfNBCGwuZiI4RDVvG/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1mVdOOAhg6L_y-ppS_2y3tZlSwGpn7Aoj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
